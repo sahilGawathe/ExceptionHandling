@@ -1,4 +1,4 @@
-package com.ty.exceptionHandling;
+package exceptionHandling;
 public class NestedTryCatchExample {
     public static void main(String[] args) {
         try {

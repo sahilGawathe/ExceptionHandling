@@ -1,4 +1,4 @@
-package com.ty.exceptionHandling;
+package exceptionHandling;
 public class ThrowsExample {
     public static void riskyMethod() throws Exception {
         throw new Exception("An error occurred");

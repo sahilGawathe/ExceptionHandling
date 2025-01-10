@@ -1,5 +1,4 @@
-package com.ty.exceptionHandling;
-@SuppressWarnings("serial")
+package exceptionHandling;
 class CustomException extends Exception {
     public CustomException(String message) {
         super(message);

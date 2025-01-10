@@ -1,4 +1,4 @@
-package com.ty.exceptionHandling;
+package exceptionHandling;
 public class ThrowExample {
     public static void divide(int a, int b) {
         if (b == 0) {
